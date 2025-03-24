@@ -4,6 +4,7 @@
 #idea
 .vscode/
 .idea/
+*.sql
 
 
 # Binaries for programs and plugins
